@@ -8,7 +8,6 @@ words = []
 index = 0 
 
 while index < src.count do
-  
   inner_index = 0 
   while inner_index < src[index].count do
    
@@ -17,8 +16,6 @@ while index < src.count do
     
   end
   inner_index += 1 
- 
-  
 end
 index += 1 
 
